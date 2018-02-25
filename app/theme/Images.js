@@ -1,0 +1,31 @@
+// leave off @2x/@3x
+const images = {
+  logo: require('../images/ir.png'),
+  clearLogo: require('../images/top_logo.png'),
+  launch: require('../images/launch-icon.png'),
+  ready: require('../images/your-app.png'),
+  ignite: require('../images/ignite_logo.png'),
+  igniteClear: require('../images/ignite-logo-transparent.png'),
+  tileBg: require('../images/tile_bg.png'),
+  background: require('../images/BG.png'),
+  buttonBackground: require('../images/button-bg.png'),
+  api: require('../images/icon-api-testing.png'),
+  components: require('../images/icon-components.png'),
+  deviceInfo: require('../images/icon-device-information.png'),
+  faq: require('../images/faq-icon.png'),
+  home: require('../images/icon-home.png'),
+  theme: require('../images/icon-theme.png'),
+  usageExamples: require('../images/icon-usage-examples.png'),
+  chevronRight: require('../images/chevron-right.png'),
+  hamburger: require('../images/hamburger.png'),
+  backButton: require('../images/back-button.png'),
+  closeButton: require('../images/close-button.png'),
+  monkey: require('../images/monkey.png'),
+  piz: require('../images/piz.jpg'),
+  mex: require('../images/mex.jpg'),
+  pub: require('../images/pub.jpg'),
+  tugoIcon: require('../images/tugo-icon.png'),
+  tugoIconGray: require('../images/tugo-icon-gray.png'),
+}
+
+export default images

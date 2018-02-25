@@ -1,0 +1,3 @@
+rootProject.name = 'MedicarePayments'
+
+include ':app'
